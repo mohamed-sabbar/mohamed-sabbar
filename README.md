@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sabbar</h1>
 <h3 align="center">A passionate data and software Engineering Student</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" align="right" width="400" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" align="right" width="300" /> </p>
 
-- 🌱 I’m currently learning **Kafka,Mongodb,Spark,ML**
+- 🌱 I’m currently learning **Kafka,Mongodb,Spark,ML and Hadoop**
 
 - 👨‍💻 All of my projects are available at **https://github.com/mohamed-sabbar**
 
-- 💬 Ask me about **python,databases,linux ...**
+- 💬 Ask me about **Python,Databases,linux ...**
 
 - 📫 How to reach me **mohamedazrou2003@gmail.com**
 
