@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kafka,Mongodb,Spark,ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohamed-sabbar](https://github.com/mohamed-sabbar)
+- 👨‍💻 All of my projects are available at **https://github.com/mohamed-sabbar**
 
 - 💬 Ask me about **python,databases,linux ...**
 
