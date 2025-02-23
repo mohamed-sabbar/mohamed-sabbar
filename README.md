@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohamedazrou2003@gmail.com**
 
-- ⚡ Fun fact **I have passion in games programming 😁**
+- ⚡ Fun fact **I love playing video games😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
