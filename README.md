@@ -23,7 +23,7 @@
 
 <!-- Bash -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" alt="bash" width="40" height="40"/>
 </a>
 
 <!-- C -->
@@ -43,7 +43,7 @@
 
 <!-- Flask -->
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" width="40" height="40"/>
 </a>
 
 <!-- Git -->
@@ -143,7 +143,7 @@
 
 <!-- dbt -->
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-  <img src="[https://www.getdbt.com/ui/img/logos/dbt-logo.svg](https://images.seeklogo.com/logo-png/43/1/dbt-logo-png_seeklogo-431111.png)" alt="dbt" width="40" height="40"/>
+  <img src="https://images.seeklogo.com/logo-png/43/1/dbt-logo-png_seeklogo-431111.png" alt="dbt" width="40" height="40"/>
 </a>
 
 <!-- Microsoft Azure -->
@@ -160,8 +160,9 @@
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/>
 </a>
-
+<!-- Apache Airflow -->
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="spark" width="40" height="40"/>
+</a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-sabbar&show_icons=true&locale=en&layout=compact" alt="mohamed-sabbar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-sabbar&show_icons=true&locale=en" alt="mohamed-sabbar" /></p>
