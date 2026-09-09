@@ -143,7 +143,7 @@
 
 <!-- dbt -->
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" alt="dbt" width="40" height="40"/>
+  <img src="[https://www.getdbt.com/ui/img/logos/dbt-logo.svg](https://images.seeklogo.com/logo-png/43/1/dbt-logo-png_seeklogo-431111.png)" alt="dbt" width="40" height="40"/>
 </a>
 
 <!-- Microsoft Azure -->
